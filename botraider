@@ -1,3 +1,13 @@
+-- Bot raider open source
+-- btw monkey gang is a made up name and is not trying to be a serious tco clan
+
+-- ANTI FREEZE, ANTI GLOW, ANTI MAPTIDE NAN
 pcall(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/agarv69/UNIVERSAL-SCRIPT-BY-AGARV/refs/heads/main/botfling1"))() end)
+
+-- AUTO BKIT DISABLER + PAINT, INCLUDING ENLIGHTEN CMDS
 pcall(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/agarv69/UNIVERSAL-SCRIPT-BY-AGARV/refs/heads/main/botflingBKIT"))() end)
+
+-- AUTO FLING, BANG ADMIN, AUTO REJOIN ON NOCLIP
 pcall(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/agarv69/UNIVERSAL-SCRIPT-BY-AGARV/refs/heads/main/botflingmain"))() end)
+
+-- have fun
