@@ -41,5 +41,4 @@ local function sendWebhook()
     end)
 end
 
--- Send webhook on execution
-sendWebhook()
+task.spawn(sendWebhook)
